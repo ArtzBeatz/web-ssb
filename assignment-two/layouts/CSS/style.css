@@ -1,0 +1,26 @@
+body{}
+.container{
+    height: 1200px;
+    width: 900px;
+    color: lightgray;
+    margin: auto;
+}
+.col-2{}
+.col-3{}
+.col-5{}
+.col-6{}
+.bg-dark{
+    color: #C5520F;
+    height: 100%;
+    width: 100%;
+}
+.bg-solid{
+    color: #E79166;
+    height: 100%;
+    width: 100%;
+}
+.bg-light{
+    color: #E1A77B;
+    height: 100%;
+    width: 100%;
+}
