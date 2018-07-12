@@ -21,10 +21,10 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../assignment-two/layouts/index.html">
+        <entry file="file://$PROJECT_DIR$/../assignment-two/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="264">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -53,11 +53,11 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../assignment-two/layouts/CSS/style.css" />
-        <option value="$PROJECT_DIR$/../assignment-two/index.html" />
         <option value="$PROJECT_DIR$/../assignment-two/layouts/layout-one/index.html" />
         <option value="$PROJECT_DIR$/../assignment-two/layouts/layout-two/CSS/style.css" />
         <option value="$PROJECT_DIR$/../assignment-two/layouts/layout-two/index.html" />
         <option value="$PROJECT_DIR$/../assignment-two/layouts/index.html" />
+        <option value="$PROJECT_DIR$/../assignment-two/index.html" />
       </list>
     </option>
   </component>
@@ -103,6 +103,13 @@
               <item name="assignment-2" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment-two" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="layout-one" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-two" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
               <item name="layout-two" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,6 +138,7 @@
       <recent name="$PROJECT_DIR$/../assignment-two/layouts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../assignment-two" />
       <recent name="$PROJECT_DIR$/../assignment-two/layouts/layout-one" />
       <recent name="$PROJECT_DIR$/../assignment-two/layouts" />
     </key>
@@ -157,16 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531411932131</updated>
-      <workItem from="1531411933532" duration="8596000" />
+      <workItem from="1531411933532" duration="8661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8596000" />
+    <option name="totallyTimeSpent" value="8661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15972222" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -224,10 +231,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../assignment-two/layouts/index.html">
+    <entry file="file://$PROJECT_DIR$/../assignment-two/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="264">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
